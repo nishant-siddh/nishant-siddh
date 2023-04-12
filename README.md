@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/nishant_siddh" target="blank"><img src="https://img.shields.io/twitter/follow/nishant_siddh?logo=twitter&style=for-the-badge" alt="nishant_siddh" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Website**
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **CSS, Javascript**
