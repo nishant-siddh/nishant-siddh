@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **nishantsiddh05@gmail.com**
 
-- ⚡ Fun fact **I am not very funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nishant_siddh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant_siddh" height="30" width="40" /></a>
