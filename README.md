@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/nishant_siddh" target="blank"><img src="https://img.shields.io/twitter/follow/nishant_siddh?logo=twitter&style=for-the-badge" alt="nishant_siddh" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **CSS, Javascript**
 
